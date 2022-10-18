@@ -1,12 +1,12 @@
-# Baatcheect
-Baatcheet is a simple realtime chat application based on MERN
+# Tiny-Talks
+Tiny-Talks is a simple realtime chat application based on MERN
 Stack where user can message an Individual or Group.
 ## Features
 - Consists of the Google auth and JWT for user SIGN/LOGIN
-- Baatcheet’s frontend is implemented with React.js using ChakraUI
+- Tiny-Talks frontend is implemented with React.js using ChakraUI
 along with Redux to handle different states. It also uses Axios to
 interact with the backend to send and receive data.
-- Baatcheet’s backend is built using NodeJS and Express. It provides
+- Tiny-Talks backend is built using NodeJS and Express. It provides
 various APIroutes to handle userlogin and signup. It also interacts
 with MongoDB databases to save and retrieve data
 <br />
@@ -22,7 +22,7 @@ with MongoDB databases to save and retrieve data
 Clone the project
 
 ```bash
-  git clone https://github.com/ayushsrivastav0811/Baatcheet
+  git clone https://github.com/ayushsrivastav0811/Tiny-Talks
 ```
 
 Go to the project directory
