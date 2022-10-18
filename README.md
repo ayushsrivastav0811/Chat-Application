@@ -54,3 +54,14 @@ Start the Client
   cd frontend
   npm start
 ```
+# Website Screenshots
+<img src="https://github.com/ayushsrivastav0811/Tiny-Talks/blob/master/sc1.png" width="500px" height="300px">
+<hr>
+<img src="https://github.com/ayushsrivastav0811/Tiny-Talks/blob/master/sc2.png" width="500px" height="300px">
+
+<hr>
+
+***Glad to see you here! Show some love by [starring](https://github.com/ayushsrivastav0811/Tiny-Talks) this repo.***
+
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@ayushsrivastav&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/ayush.srivastav.7792/)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@_ayush.srivastav_&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/_ayush.srivastav_/?hl=en) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@ayushsrivastav&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/ayushsrivastav0811/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@Ayush_s_08&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/Ayush_s_08)
+
